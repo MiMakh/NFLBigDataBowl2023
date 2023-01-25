@@ -25,7 +25,7 @@ If one asks a scout - game IQ (vision, recognition) comes first, but it is not t
 **To illustrate our reasoning - here is the movement graph of a quarterback sack.**
 <br>*The blue dots are the player's position on the field. Black lines indicate where they are facing, the length of the line indicates speed.*
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/12784655/214554669-dc0d8b44-d115-488d-b65e-073b8d8792cc.png)
 
 
 
